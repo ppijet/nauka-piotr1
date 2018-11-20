@@ -1,4 +1,6 @@
 package com.kodilla;
 
-public class FirstClassgit init {
+public class FirstClass {
+    String auto;
+    int result = 5;
 }
